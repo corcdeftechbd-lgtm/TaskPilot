@@ -10,17 +10,17 @@ Productivity is not about becoming a untired machine . Everything is system . Be
 
 You can use TaskPilot to:
 
-Add Tasks
+1.Add Tasks
 Keep your responsibilities organized in one place.
 
-View Your Tasks
+2.View Your Tasks
 See what needs to be done and keep track of your pending work.
 
-Set Reminders — Two Ways
+3.Set Reminders — Two Ways
 
-Countdown reminder: Get reminded after a certain period.
+3.1Countdown reminder: Get reminded after a certain period.
 
-Clock-time reminder: Get reminded at a specific time.
+3.2Clock-time reminder: Get reminded at a specific time.
 
 Sound Notifications
 Get an audible reminder when it's time to act.
