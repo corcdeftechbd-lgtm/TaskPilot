@@ -2,7 +2,7 @@ TaskPilot v1.0 – First Public Release
 
 TaskPilot v1.0
 ARE YOU ?
-The One , Who Say "I'll do it -Heidi Montag? , "Tomorrow"-Charles Strouse!. I don't even know people read relase note . Okay when you came here i should welcome you . WELCOME
+The One , Who Say "I'll do it -Heidi Montag" , "Tomorrow"-Charles Strouse!. I don't even know people read relase note . Okay when you came here i should welcome you . WELCOME
 
 Productivity is not about becoming a untired machine . Everything is system . Behind this project my motivation was i'll do it later . That's it . maybe . i will tell u more.
 
